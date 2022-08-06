@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    background: rgb(254, 95, 95)
+}
+#firstImage{
+    border-radius: 50%;
+}
+#intro{
+    font-size:25px;
+    font-weight: bolder;
+    letter-spacing: 10px;
+}
